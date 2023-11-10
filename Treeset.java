@@ -15,7 +15,7 @@ class Tree{
              System.out.println(i.next());  
          }  
              System.out.println("Lowest Value: "+set.pollFirst());    
-         System.out.println("Highest Value: "+set.pollLast());  
-          System.out.println("Initial Set: "+set); 
+             System.out.println("Highest Value: "+set.pollLast());  
+             System.out.println("Initial Set: "+set); 
  }  
 }  
