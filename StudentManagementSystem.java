@@ -10,7 +10,7 @@ class Student {
 
     // Constructor
     public Student(String name, int rollNumber, double marks) {
-this.name = name;
+        this.name = name;
         this.rollNumber = rollNumber;
         this.marks = marks;
     }
